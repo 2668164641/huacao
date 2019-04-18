@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="whiteColor">#FFFFFFFF</color>
+    <color name="primaryColor">#0099ff</color>
+    <color name="primaryDarkColor">#0099ff</color>
+    <color name="grayPrimaryColor">#4D0099ff</color>
+    <color name="spiteColor">#E5E5E5</color>
+    <color name="bgColor">#FFFAFAFA</color>
+    <color name="seachColor">#EFEFEF</color>
+    <color name="titleBkColor">@color/primaryColor</color>
+    <color name="deepColor">#323232</color><!--深色色值-->
+    <!--深色色值-->
+    <color name="tintColor">#818181</color><!--浅色色值-->
+    <color name="tintMoreColor">#999999</color><!--浅色色值-->
+    <color name="hintColor">#8A8A8A</color><!--提示填充字色值-->
+    <!--特殊提示字色值-->
+    <color name="translucent">@android:color/transparent</color>
+    <color name="goodstagsel">#FFE6CF</color>
+    <color name="goodstagline">#FB861D</color>
+    <color name="goodstagnor">#F0F0F0</color>
+    <!--白色透明度-->
+
+    <!--黑色透明度-->
+    <color name="translucent_black_40">#99000000</color>
+</resources>
